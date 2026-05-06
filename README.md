@@ -30,12 +30,11 @@ Este projeto contém exercícios de **lógica de programação em JavaScript**, 
 
 ## 📊 progresso
 
-<p align="center">
-  <img src="https://progress-bar.dev/20/?title=ex1&color=ff69b4">
-  <img src="https://progress-bar.dev/40/?title=ex2&color=8a2be2">
-  <img src="https://progress-bar.dev/60/?title=ex3&color=00cfff">
-  <img src="https://progress-bar.dev/80/?title=ex4&color=00ff9c">
-  <img src="https://progress-bar.dev/100/?title=ex5&color=ffb347">
+[ex1] ██████████ 100%  
+[ex2] ██████████ 100%  
+[ex3] ██████████ 100%  
+[ex4] ██████████ 100%  
+[ex5] ██████████ 100%  
 </p>
 
 ---
