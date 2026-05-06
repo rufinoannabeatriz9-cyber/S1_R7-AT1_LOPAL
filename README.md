@@ -30,11 +30,11 @@ Este projeto contém exercícios de **lógica de programação em JavaScript**, 
 
 | exercício | progresso | acesso |
 |----------|----------|--------|
-| ex1 | ██████████ 100% | [abrir](./ex1.js) |
-| ex2 | ██████████ 100% | [abrir](./ex2.js) |
-| ex3 | ██████████ 100% | [abrir](./ex3.js) |
-| ex4 | ██████████ 100% | [abrir](./ex4.js) |
-| ex5 | ██████████ 100% | [abrir](./ex5.js) |
+| ex1 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/S1_R7-AT1_LOPAL/tree/main/ex.01) |
+| ex2 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/S1_R7-AT1_LOPAL/tree/main/ex.02) |
+| ex3 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/S1_R7-AT1_LOPAL/tree/main/ex.03) |
+| ex4 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/S1_R7-AT1_LOPAL/tree/main/ex.04) |
+| ex5 | ██████████ 100% | [abrir](https://github.com/rufinoannabeatriz9-cyber/S1_R7-AT1_LOPAL/tree/main/ex.05) |
 
 ---
 
