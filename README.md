@@ -1,63 +1,79 @@
 # S1_R7-AT1_LOPAL
-# Exercícios de JavaScript
+# javascript exercises
 
-> Atividade prática para treinar lógica de programação utilizando JavaScript.
-
----
-
-## ▸ Sobre o projeto
-Este repositório contém 5 exercícios que utilizam:
-- Entrada de dados com `prompt`
-- Saída com `alert`
-- Estruturas de repetição (`while`, `do...while`)
-- Condições (`if/else`)
-- Validação de dados
+<sub>⟡ projeto acadêmico · lógica de programação ⟡</sub>
 
 ---
 
-## ▸ Exercícios
-
-### [1] Número positivo
-Solicita um número ao usuário até que ele digite um valor positivo válido.
-
----
-
-### [2] Média de notas
-Permite inserir várias notas (0 a 10) e calcula a média ao final.  
-O programa encerra quando um número negativo é digitado.
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-2b2b2b?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/javascript-essencial-2b2b2b?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/foco-lógica-2b2b2b?style=for-the-badge&labelColor=000000">
+</p>
 
 ---
 
-### [3] Total de compras
-Soma valores de compras inseridos pelo usuário.  
-Finaliza quando o valor digitado for `0`.
+## ░▒▓ sobre ▓▒░
+este repositório reúne exercícios voltados ao desenvolvimento da lógica de programação utilizando javascript.
+
+↳ principais conceitos:
+• entrada → `prompt`  
+• saída → `alert`  
+• repetição → `while` / `do...while`  
+• decisão → `if / else`  
+• validação de dados  
 
 ---
 
-### [4] Nome completo obrigatório
-Solicita nome e sobrenome separadamente.  
-Caso algum campo esteja vazio, o programa pede novamente.
+## ░▒▓ progresso ▓▒░
+
+
+carregando sistema...
+
+[■■□□□□□□□□] 20%
+[■■■■□□□□□□] 40%
+[■■■■■■□□□□] 60%
+[■■■■■■■■□□] 80%
+[■■■■■■■■■■] 100% concluído
+
 
 ---
 
-### [5] Sistema de saque
-Simula um sistema simples:
-- Possui saldo inicial
-- Permite saques
-- Impede saque maior que o saldo
-- Encerra quando o saldo chega a zero
+## ░▒▓ exercícios ▓▒░
+
+┌─ [01] número positivo  
+│  ↳ valida entrada até valor correto  
+│  
+├─ [02] média de notas  
+│  ↳ cálculo com múltiplas entradas  
+│  
+├─ [03] total de compras  
+│  ↳ soma acumulativa  
+│  
+├─ [04] nome completo  
+│  ↳ validação de campos obrigatórios  
+│  
+└─ [05] sistema de saque  
+   ↳ controle de saldo  
+   ↳ verificação de limites  
 
 ---
 
-## ▸ Tecnologias utilizadas
-- JavaScript
-- Git e GitHub
+## ░▒▓ tecnologias ▓▒░
+
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/git-000000?style=flat-square">
+  <img src="https://img.shields.io/badge/github-000000?style=flat-square">
+</p>
 
 ---
 
-## ▸ Estrutura do projeto
+## ░▒▓ estrutura ▓▒░
+
 
 exercicios-js/
+│
 ├── ex1.js
 ├── ex2.js
 ├── ex3.js
@@ -68,18 +84,21 @@ exercicios-js/
 
 ---
 
-## ▸ Como executar
-1. Abra o navegador  
-2. Pressione `F12` (console)  
-3. Cole o código do exercício  
-4. Execute e interaja com os prompts  
+## ░▒▓ execução ▓▒░
+
+> abrir navegador  
+> pressionar F12  
+> colar código  
+> executar  
 
 ---
 
-## ▸ Autor
-Anna Beatriz Rufino de Araújo
+## ░▒▓ autora ▓▒░
+
+anna beatriz rufino de araújo  
 
 ---
 
-## ▸ Observação
-Projeto acadêmico com foco em aprendizado de lógica de programação.
+## ░▒▓ estética ▓▒░
+
+minimal · clean · lógica · consistência  
