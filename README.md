@@ -6,21 +6,19 @@
   <sub>visual moderno • interativo • colorido</sub>
 </p>
 
----
-
-## 🔘 navegação rápida
-
 <p align="center">
-  <a href="#-sobre"><img src="https://img.shields.io/badge/sobre-ff69b4?style=for-the-badge"></a>
-  <a href="#-exercícios"><img src="https://img.shields.io/badge/exercícios-8a2be2?style=for-the-badge"></a>
-  <a href="#-progresso"><img src="https://img.shields.io/badge/progresso-00cfff?style=for-the-badge"></a>
-  <a href="#-tecnologias"><img src="https://img.shields.io/badge/tech-00ff9c?style=for-the-badge"></a>
+  <a href="#sobre"><img src="https://img.shields.io/badge/sobre-ff69b4?style=for-the-badge"></a>
+  <a href="#exercicios"><img src="https://img.shields.io/badge/exercícios-8a2be2?style=for-the-badge"></a>
+  <a href="#progresso"><img src="https://img.shields.io/badge/progresso-00cfff?style=for-the-badge"></a>
+  <a href="#tecnologias"><img src="https://img.shields.io/badge/tech-00ff9c?style=for-the-badge"></a>
 </p>
 
 ---
 
-## 💡 sobre
+## <a name="sobre"></a>💡 sobre
+
 Este projeto contém exercícios de **lógica de programação em JavaScript**, focados em:
+
 - validação de dados  
 - repetição  
 - decisões  
@@ -28,31 +26,57 @@ Este projeto contém exercícios de **lógica de programação em JavaScript**, 
 
 ---
 
-## 📊 progresso
+## <a name="progresso"></a>📊 progresso
 
-[ex1] ██████████ 100%  
-[ex2] ██████████ 100%  
-[ex3] ██████████ 100%  
-[ex4] ██████████ 100%  
-[ex5] ██████████ 100%  
-</p>
-
----
-
-## 📋 exercícios
-
-| # | exercício | descrição | status |
-|--|----------|----------|--------|
-| 01 | número positivo | valida entrada | 🟢 |
-| 02 | média de notas | cálculo de média | 🟢 |
-| 03 | total de compras | soma acumulada | 🟢 |
-| 04 | nome completo | validação | 🟢 |
-| 05 | sistema de saque | controle de saldo | 🟢 |
+| exercício | progresso | acesso |
+|----------|----------|--------|
+| ex1 | ██████████ 100% | [abrir](./ex1.js) |
+| ex2 | ██████████ 100% | [abrir](./ex2.js) |
+| ex3 | ██████████ 100% | [abrir](./ex3.js) |
+| ex4 | ██████████ 100% | [abrir](./ex4.js) |
+| ex5 | ██████████ 100% | [abrir](./ex5.js) |
 
 ---
 
+## <a name="exercicios"></a>📋 exercícios
 
-## 💻 tecnologias
+<details>
+<summary>📌 clique para ver os exercícios</summary>
+
+<br>
+
+### 01 — número positivo  
+valida entrada até valor correto  
+
+### 02 — média de notas  
+cálculo com múltiplas entradas  
+
+### 03 — total de compras  
+soma acumulativa  
+
+### 04 — nome completo  
+validação de campos  
+
+### 05 — sistema de saque  
+controle de saldo  
+
+</details>
+
+---
+
+## 🎨 gráfico visual
+
+
+ex1 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex2 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex3 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex4 ▰▰▰▰▰▰▰▰▰▰ 100%
+ex5 ▰▰▰▰▰▰▰▰▰▰ 100%
+
+
+---
+
+## <a name="tecnologias"></a>💻 tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-ff69b4?style=for-the-badge">
@@ -87,7 +111,7 @@ exercicios-js/
 
 ## 👩‍💻 autora
 
-anna beatriz rufino de araújo
+anna beatriz rufino de araújo  
 
 ---
 
