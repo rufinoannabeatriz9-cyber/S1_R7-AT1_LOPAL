@@ -51,17 +51,6 @@ Este projeto contém exercícios de **lógica de programação em JavaScript**, 
 
 ---
 
-## 🎨 gráfico (fake visual)
-
-
-exercício 1 ▰▰▰▰▰▰▰▰▱▱ 80%
-exercício 2 ▰▰▰▰▰▰▰▰▰▰ 100%
-exercício 3 ▰▰▰▰▰▰▱▱▱▱ 60%
-exercício 4 ▰▰▰▰▰▰▰▰▱▱ 80%
-exercício 5 ▰▰▰▰▰▰▰▰▰▰ 100%
-
-
----
 
 ## 💻 tecnologias
 
